@@ -14,7 +14,7 @@ export default Ember.Route.extend({
     createMessage(messages) {
       let newRecord = this.store.createRecord('messages', {
         text: messages,
-        user:'Rouz'
+        user: this.get('userFromParams')
       });
 
       newRecord.save();
