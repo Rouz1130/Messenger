@@ -5,7 +5,10 @@
 
 body {
   padding-bottom: 70px;
-  background-color: #f4f1d6;
+  background-image: url('http://68.media.tumblr.com/ada7b30b81936623ecc0472983b450da/tumblr_inline_nv6a59DrHr1txqg2v_500.jpg');
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ background-size: cover;
 }
 
 .message-bar {
