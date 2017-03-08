@@ -1,8 +1,11 @@
 # messenger
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+A short introduction of this app could easily go here. This is a messanger application were user can sign his name in 
+and join the chat room. Everyting works fine please follow instructions to download site or feel free to hit the link                   
+in the repo to try it yourself. This project will eventually get expaned to allow for authentication. You may also notice the drop
+down link has several categories from Politics to Sports. Those pages have not been made yet so the link will not work yet but once 
+authentication is implemented those pages will come.
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
